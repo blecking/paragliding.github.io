@@ -10,3 +10,7 @@ body {
 .station {
   display: inline-block;
 }
+
+.station > h5 {
+  text-align: center
+}
