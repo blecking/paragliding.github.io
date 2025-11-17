@@ -2,11 +2,11 @@ body {
   font-family: verdana;
 }
 
-.station_parent {
+.stations {
   display: flex;
   column-gap: 20px;
 }
 
-.station_child {
+.station {
   display: inline-block;
 }
